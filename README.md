@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadircan UZAN</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadircanuzan&label=Profile%20views&color=0e75b6&style=flat" alt="kadircanuzan" /> </p>
-<img align="right" alt="itachi" width="500" height="400" src="https://cdn.discordapp.com/attachments/1187782625465729035/1187817488931631196/naruto-gif-1.gif?ex=6598443d&is=6585cf3d&hm=2613615c93e38f26bfcbf3c0d3ac9328aada55b54d50e7a221a8e34c93d9f88a&">
+<img align="right" alt="itachi" width="400" height="210" src="https://cdn.discordapp.com/attachments/1187782625465729035/1187817488931631196/naruto-gif-1.gif?ex=6598443d&is=6585cf3d&hm=2613615c93e38f26bfcbf3c0d3ac9328aada55b54d50e7a221a8e34c93d9f88a&">
 
 
 <h3>👨‍💻 About Me:</h3>
