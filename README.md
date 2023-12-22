@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadircan UZAN</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=8E3397&center=true&width=1035&lines=Software+Developer)](https://git.io/typing-svg)
 
 <img align="right" alt="itachi" width="300" height="300" src="https://media3.giphy.com/media/rHA6zm9rRSauk/giphy.gif?cid=790b76110b464db2140cfdb7cce1f085db16c3c86fc7fae0&rid=giphy.gif&ct=g">
 
