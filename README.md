@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kadircan UZAN</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=8E3397&center=true&width=1035&lines=Software+Developer)](https://git.io/typing-svg)
 
+<img align="right" alt="itachi" width="300" height="300" src="https://media3.giphy.com/media/rHA6zm9rRSauk/giphy.gif?cid=790b76110b464db2140cfdb7cce1f085db16c3c86fc7fae0&rid=giphy.gif&ct=g">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bolatysf&label=Profile%20views&color=0e75b6&style=flat" alt="bolatysf" /> </p>
+<h3>👨‍💻 About Me:</h3>
+:sparkles: In September 2022 I attended Bilge Adam Boost .Net Developer training.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadircanuzan&label=Profile%20views&color=0e75b6&style=flat" alt="kadircanuzan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
